@@ -1,0 +1,11 @@
+﻿pip install icecream # 打印格式
+pip install python-telegram-bot # 安装电报机器人
+pip install pyarrow
+pip install pymysql
+pip install sqlalchemy
+pip install --upgrade pandas # 需要升级到最新的pandas df.to_sql才能使用
+pip install gevent
+pip install ccxt
+pip install apscheduler
+pip install pytz_deprecation_shim
+pip install tabulate
